@@ -3,7 +3,7 @@ import csv
 
 s3 = boto3.resource('s3',
  aws_access_key_id='AKIARZTUCNKQQFO2SSPW',
- aws_secret_access_key='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'
+ aws_secret_access_key=''
 )
 
 try:
